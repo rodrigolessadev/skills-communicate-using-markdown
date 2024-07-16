@@ -4,3 +4,6 @@
 ``` javascript
 const teste = "testando blocos";
 ```
+- [ ] Adicionar lista
+- [ ] Criar exemplos
+- [ ] Gerar arquivo.
